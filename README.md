@@ -5,8 +5,8 @@
 │   ║  📁 My Computer                         _ □ ✕ ║    [🗑️]             │
 │   ╠═══════════════════════════════════════════════╣   Recycle Bin       │
 │   ║                                               ║                     │
-│   ║   🌐 GitHub  →  [github.com/vapenyk](github.com/vapenyk)            ║                     │
-│   ║   🦊 GitLab  →  [gitlab.com/vapenyk](github.com/vapenyk)            ║                     │
+│   ║   🌐 GitHub  →  [github.com/vapenyk](https://github.com/vapenyk)            ║                     │
+│   ║   🦊 GitLab  →  [gitlab.com/vapenyk](https://gitlab.com/vapenyk)            ║                     │
 │   ║                                               ║                     │
 │   ╚═══════════════════════════════════════════════╝                     │
 │                                                                         │
