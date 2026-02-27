@@ -1,18 +1,19 @@
-```
+<pre>
 ┌─────────────────────────────────────────────────────────────────────────┐
 │                                                                         │
 │   ╔═══════════════════════════════════════════════╗                     │
 │   ║  📁 My Computer                         _ □ ✕ ║    [🗑️]             │
 │   ╠═══════════════════════════════════════════════╣   Recycle Bin       │
 │   ║                                               ║                     │
-│   ║   🌐 GitHub  →  [github.com/vapenyk](https://github.com/vapenyk)            ║                     │
-│   ║   🦊 GitLab  →  [gitlab.com/vapenyk](https://gitlab.com/vapenyk)            ║                     │
+│   ║   🌐 GitHub  →  <a href="https://github.com/vapenyk">github.com/vapenyk</a>            ║                     │
+│   ║   🦊 GitLab  →  <a href="https://gitlab.com/vapenyk">gitlab.com/vapenyk</a>            ║                     │
 │   ║                                               ║                     │
 │   ╚═══════════════════════════════════════════════╝                     │
+│                                                                         │
 │                                                                         │
 ├─────────────────────────────────────────────────────────────────────────┤
 │ [▶ Start]  │  vapenyk  │                              🔊  🕐  00:00     │
 └─────────────────────────────────────────────────────────────────────────┘
-```
+</pre>
 
 > `C:\Users\vapenyk> _`
