@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @thornintheass
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   ╔═══════════════════════════════════════════════╗                     │
+│   ║  📁 My Computer                         _ □ ✕ ║    [🗑️]             │
+│   ╠═══════════════════════════════════════════════╣   Recycle Bin       │
+│   ║                                               ║                     │
+│   ║   🌐 GitHub  →  github.com/vapenyk            ║                     │
+│   ║   🦊 GitLab  →  gitlab.com/vapenyk            ║                     │
+│   ║                                               ║                     │
+│   ╚═══════════════════════════════════════════════╝                     │
+│                                                                         │
+├─────────────────────────────────────────────────────────────────────────┤
+│ [▶ Start]  │  vapenyk  │                              🔊  🕐  00:00     │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
-<!---
-thornintheass/thornintheass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> `C:\Users\vapenyk> _`
