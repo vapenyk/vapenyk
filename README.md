@@ -16,4 +16,4 @@
 └─────────────────────────────────────────────────────────────────────────┘
 </pre>
 
-> `C:\Users\vapenyk> _`
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua/)
