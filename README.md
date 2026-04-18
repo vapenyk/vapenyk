@@ -6,7 +6,7 @@
 │   ╠═══════════════════════════════════════════════╣   Recycle Bin       │
 │   ║                                               ║                     │
 │   ║   📁 dotfiles  →  <a href="https://codeberg.org/vapenyk/dotfiles">link/dotfiles</a>               ║                     │
-│   ║   💎 Codeberg  →  <a href="https://codeberg.org/vapenyk">codeberg.org/vapenyk</a>               ║                     │
+│   ║   💎 Codeberg  →  <a href="https://codeberg.org/vapenyk">codeberg.org/vapenyk</a>        ║                     │
 │   ║   🦊 GitLab  →  <a href="https://gitlab.com/vapenyk">gitlab.com/vapenyk</a>            ║                     │
 │   ║                                               ║                     │
 │   ╚═══════════════════════════════════════════════╝                     │
